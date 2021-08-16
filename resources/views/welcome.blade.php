@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Achados e Perdidos
+                    Achados e Perdidos | by Me
                 </div>
 
                 <div class="links">
